@@ -1,17 +1,20 @@
-* {
-  margin:0px;
-  padding:0px;
+body {
+font-family: Tahoma, sans-serif;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+table {
+border-width: 2px;
+border-style: inset;
+border-color: #33CC00;
+background-color: #CCFFCC;
+}
+
+h1 {
+font-style: italic;
+font-size: large;
+font-weight: bold;
 }
 
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+font-size: small
 }
